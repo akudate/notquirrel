@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quirrel</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A wandering programmer from Indonesia</h3>
 <hr>
 <img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/f445a549b493120cac18da3630e24e0b/tumblr_oyjnm18Dta1vz51c1o1_500.gifv"
 
