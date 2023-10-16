@@ -5,11 +5,13 @@
 
 <p align="left"><br></p>
 
-- 🌱 I’m currently learning **Next.js 13**
+- I’m currently learning **Next.js 13**
 
-- 📫 How to reach me **quirrelcode@gmail.com**
+- How to reach me **quirrelcode@gmail.com**
 
-- *"Waiting for something to happen?"*
+- All of my projects are available <a href="https://daffa-code.vercel.app/Project"/>here</a>
+
+- I’m currently working on a **Discord Clone** project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
