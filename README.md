@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daffa</h1>
 <h3 align="center">A passionate programmer from Indonesia</h3>
 <hr>
-<img align="right" alt="" width="400" src="https://giffiles.alphacoders.com/221/221095.gif"
+<img align="right" alt="" width="40%" src="https://giffiles.alphacoders.com/221/221095.gif"
 
 <p align="left"><br></p>
 
